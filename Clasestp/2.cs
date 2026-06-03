@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Clasestp
 {
-    internal class _2
+    //el error estaba en el metodo sumar, ya que no se puede tener dos metodos con el mismo nombre 
+    public class Calculadora
     {
+        public int Sumar(int a, int b)
+        {
+            return a + b;
+        }
+        public double sumar(int x, int y)
+        {
+            return (double)x + y;
+        }
     }
 }

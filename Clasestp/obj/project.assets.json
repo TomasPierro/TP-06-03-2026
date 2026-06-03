@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\Clasestp\\Clasestp\\Clasestp.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\Clasestp.csproj",
       "projectName": "Clasestp",
-      "projectPath": "C:\\Users\\tomas\\source\\repos\\Clasestp\\Clasestp\\Clasestp.csproj",
+      "projectPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\Clasestp.csproj",
       "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas\\source\\repos\\Clasestp\\Clasestp\\obj\\",
+      "outputPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

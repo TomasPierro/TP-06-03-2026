@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp\\clasestp\\4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|solutionrelative:clasestp\\4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp\\clasestp\\5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|solutionrelative:clasestp\\5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp\\clasestp\\3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|solutionrelative:clasestp\\3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp\\clasestp\\2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|solutionrelative:clasestp\\2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp\\clasestp\\1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F93BF-8F32-44B7-BA8D-B006201299C6}|Clasestp\\Clasestp.csproj|solutionrelative:clasestp\\1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\5.cs",
+              "RelativeDocumentMoniker": "Clasestp\\5.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\5.cs",
+              "RelativeToolTip": "Clasestp\\5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T23:36:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\4.cs",
+              "RelativeDocumentMoniker": "Clasestp\\4.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\4.cs",
+              "RelativeToolTip": "Clasestp\\4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T23:36:30.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\3.cs",
+              "RelativeDocumentMoniker": "Clasestp\\3.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\3.cs",
+              "RelativeToolTip": "Clasestp\\3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T23:36:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\2.cs",
+              "RelativeDocumentMoniker": "Clasestp\\2.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\2.cs",
+              "RelativeToolTip": "Clasestp\\2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T23:35:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\1.cs",
+              "RelativeDocumentMoniker": "Clasestp\\1.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP\\Clasestp\\1.cs",
+              "RelativeToolTip": "Clasestp\\1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T23:35:15.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
